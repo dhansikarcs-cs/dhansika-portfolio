@@ -1,0 +1,455 @@
+# DHANSIKA
+
+## Independent Researcher · Builder · Technologist
+
+I explore how technology can be made more reliable, secure, and useful in the real world through research, systems building, and experimentation.
+
+My primary technical interests are **artificial intelligence, machine learning, cybersecurity, systems engineering, and cloud computing**. Alongside technology, I have spent three years independently exploring **psychology, adolescence, mental health, and human behaviour**, while also working in teen guidance, communication, debate, and community leadership.
+
+**3 years of independent research · Emergent Ventures Grantee · Founder, Sentinel · TKS Cohort 4 · UNICEF–YuWaah YPAT shortlisted**
+
+**Research · Build · Test · Learn**
+
+---
+
+# WHAT I BUILD
+
+I like taking a question or problem, understanding its constraints, designing a system around it, and testing whether the idea actually works.
+
+## SENTINEL
+
+### AI · Physiological Signals · Mental Healthcare · Systems
+
+[View Sentinel on GitHub](https://github.com/dhansikarcs-cs/Sentinel_V_1_)
+
+Sentinel is an AI-powered mental-health technology platform I am developing as a broader clinical-support system rather than simply an AI application.
+
+The system combines software-based analysis and workflows with connections to physiological signals. It brings together journal and emotional analysis, clinician-oriented triage and risk signals, structured workflows, explainable analysis, privacy-conscious data handling, security considerations, and a developing hardware layer for physiological sensing.
+
+The MVP and core workflow are complete. I have tested the system through simulated scenarios and conducted security testing, while receiving meaningful external feedback from professionals across psychology and medicine.
+
+The goal is not to replace mental-health professionals, but to explore how technology can support better-informed human decision-making.
+
+**Founder · System Architecture · Product Design · Development · Testing · Security · Hardware Integration**
+
+---
+
+# RESEARCH
+
+## MACHINE LEARNING FOR NETWORK SECURITY
+
+### Machine Learning · Cybersecurity · Robustness
+
+My current research examines what happens when machine-learning intrusion detection systems encounter data that differs from the distribution they were trained on.
+
+Using CICIDS2017, I evaluate **Logistic Regression, Random Forest, XGBoost, and a Multi-Layer Perceptron** across conventional evaluation and multiple distribution-shift scenarios, including session and attack-family shifts, leave-one-out evaluation, and synthetic feature perturbation.
+
+The research demonstrates how models that achieve near-perfect performance under conventional random splits can experience severe degradation under distribution shift, highlighting the difference between benchmark performance and realistic deployment robustness.
+
+The paper is currently being completed.
+
+**Independent Research · Experimental Design · Machine Learning · Network Security · Data Analysis**
+
+---
+
+## THREE YEARS OF INDEPENDENT RESEARCH
+
+My research began with an interest in psychology and gradually expanded into technology, machine learning, cybersecurity, and systems.
+
+Over the past three years, I have pursued research independently, learning to move from questions and literature toward structured investigation, experimentation, analysis, and documentation.
+
+I am particularly interested in problems where the obvious answer may not survive closer examination — especially when systems behave differently outside controlled environments.
+
+### Psychology
+
+Psychology remains an independent area of research and long-standing interest for me, particularly **adolescence, mental health, human behaviour, and the environments surrounding young people**.
+
+I approach psychology as a field in its own right rather than simply as an application area for technology.
+
+### Technology
+
+My current technical research focuses on **machine-learning robustness in cybersecurity**, particularly how models behave when deployment conditions differ from their training environments.
+
+I am also exploring questions at the intersection of **cloud security, deep learning, data science, and IoT**, with an interest in understanding security problems that emerge when intelligent systems operate across distributed environments.
+
+---
+
+# PROJECTS
+
+## PATIENT MONITORING SYSTEM
+
+### MedTech · Embedded Systems · Team Leadership
+
+I led a team developing a patient-monitoring and reporting system combining physiological sensing with identification and automated reporting.
+
+The system integrates:
+
+**RFID authentication · Temperature · BPM · SpO₂ · HRV · ECG · GUI · Automated PDF reports · Email delivery**
+
+The project has been presented at state-level project exhibitions and regional project expos.
+
+**Team Lead · System Design · Development · Integration · Presentation**
+
+---
+
+## PERSONAL KNOWLEDGE OS
+
+### Personal Computing · Machine Learning · Knowledge Management
+
+I built a personalized computing and knowledge environment around the way I research, study, and work.
+
+It brings together research-paper reading, knowledge organization, school work, activity tracking, and academic analysis into a workspace designed around my own workflow.
+
+I also experimented with machine learning to analyze my academic strengths and weaknesses and personalize parts of the system accordingly.
+
+The project began with a simple question:
+
+**Instead of adapting completely to the tools I use, could I build an environment that adapts more closely to the way I learn and work?**
+
+---
+
+## SASHAA
+
+### AI · Education · Robotics · Cloud Exploration
+
+SASHAA is a **collaborative project at Royal Park School** focused on developing an AI-driven academic assistance robot.
+
+I contributed as part of the team alongside other students.
+
+The project also gave me an opportunity to explore the intersection of **AI, education, robotics, and cloud technology**.
+
+---
+
+## MINDRISE WORK SYSTEM
+
+### Systems Design · Community Operations
+
+As Administrative Lead at MindRise Hub, I developed an internal operating system for the organization.
+
+It brings together:
+
+**Messaging · Queries · Meetings · Work Assignment · Issue Resolution · Progress Tracking**
+
+I initially joined as an Organising Lead and later moved into the Administrative Lead role, taking greater responsibility for the systems and processes that keep the hub functioning.
+
+[Visit MindRise Hub](https://www.instagram.com/_mindrise_hub_/)
+
+---
+
+# PEOPLE & LEADERSHIP
+
+## MINDRISE HUB
+
+My work at MindRise combines community operations, communication, event organization, and **teen guidance**.
+
+**Administrative Lead · Former Organising Lead**
+
+I have also served as the **primary speaker for three events**:
+
+**2 Teen Talks · 1 Parental Talk**
+
+My interest in teen guidance comes from wanting young people to have spaces where they can ask questions, exchange perspectives, and discuss challenges openly.
+
+[MindRise Hub](https://www.instagram.com/_mindrise_hub_/)
+
+---
+
+## MODEL UNITED NATIONS & DEBATE
+
+I have participated in **10+ Model United Nations conferences** and served as **Vice President of my school's MUN Club**.
+
+I have also been active in school debates and participated in the **Young India Parliament Regional Round**.
+
+These experiences have developed my ability to research unfamiliar issues, understand opposing perspectives, construct arguments, communicate clearly, and work with people who approach the same problem differently.
+
+---
+
+## INNOVEX
+
+I was part of the organizing team for **Innovex**, a robotics programme at Royal Park School, contributing to the organization and execution of the programme.
+
+---
+
+# WRITING
+
+## FICTION
+
+Technology is not the only thing I like building.
+
+I am currently writing an original fantasy novel.
+
+The story follows a princess from Yuvera whose world is destroyed after a conflict between Earth and her homeland. She survives by taking the identity of another girl, only to discover that the identity she carries belonged to someone who died during the war.
+
+Years later, she becomes connected to the Crown Prince of the empire responsible for her homeland's destruction, while an ancient prophecy suggests that their union may be connected to the future peace between Earth and its shadow.
+
+The first chapter introduces the royal world, the Blue Rose Ball, the protagonist's hidden identity, the prophecy surrounding her future, and the supernatural threat of the Aetherion.
+
+**Chapter One completed · Novel ongoing**
+
+[Read the novel](https://drive.google.com/file/d/1kC6B5N0MiLTnl04MDdY6KhOt_LaUKYDS/view?usp=sharing)
+
+---
+
+# HOW I THINK
+
+## CRITICAL THINKING
+
+I question assumptions, evaluate evidence, identify weaknesses in systems, and distinguish between what appears to work and what actually holds under testing.
+
+## SYSTEMS THINKING
+
+I look at how individual components interact within larger technical, organizational, and human systems.
+
+## PROBLEM SOLVING
+
+I break ambiguous problems into smaller components, identify constraints, design approaches, and iterate toward workable solutions.
+
+## ANALYTICAL REASONING
+
+I interpret results, compare alternatives, identify patterns, and reason from evidence.
+
+## CREATIVITY
+
+I generate new approaches, connect ideas across disciplines, design systems from first principles, and explore unconventional solutions.
+
+## RESEARCH THINKING
+
+I formulate questions, review existing work, design experiments, evaluate results, and communicate findings.
+
+## INDEPENDENT LEARNING
+
+I learn unfamiliar concepts independently, apply them through projects, and progressively deepen my technical understanding.
+
+---
+
+# TECHNICAL SKILLS
+
+### Artificial Intelligence & Machine Learning
+
+Machine-learning fundamentals · Model evaluation · Applied AI · Experimental design · Data analysis · AI-assisted development
+
+### Cybersecurity
+
+Network security · Intrusion detection · Security-aware architecture · Security testing · Threat-oriented thinking
+
+### Software & Systems
+
+System architecture · Application development · Workflow design · APIs · Software integration · Deployment · Debugging · Technical documentation
+
+### Cloud Computing
+
+Cloud computing fundamentals · Distributed systems concepts · Cloud architecture exploration · Cloud security exploration
+
+### Hardware & Embedded Systems
+
+Physiological sensing · RFID · Sensor integration · Embedded-system workflows · Hardware/software integration
+
+### Research & Engineering
+
+Literature review · Experimental methodology · Controlled evaluation · Reproducibility · Benchmarking · Technical writing · Documentation
+
+### Development Practice
+
+Git · GitHub · Linux · Version control · Debugging · Testing workflows · AI-assisted programming
+
+---
+
+# COMMUNICATION & LEADERSHIP
+
+### Communication
+
+Public speaking · Technical communication · Presentation · Debate · Written communication · Explaining complex ideas
+
+### Leadership
+
+Team leadership · Project coordination · Delegation · Decision-making · Systems organization · Event organization
+
+### Collaboration
+
+Cross-disciplinary teamwork · Peer feedback · Discussion · Conflict resolution · Working across different perspectives
+
+### Execution
+
+Project planning · Organization · Iteration · Documentation · Adapting to constraints · Turning ideas into practical systems
+
+### Community Building
+
+Youth engagement · Event coordination · Community operations · Teen-focused communication · Collaborative environments
+
+---
+
+# HOW I WORK
+
+## QUESTION → RESEARCH → THINK → DESIGN → BUILD → TEST → REFLECT → COMMUNICATE
+
+I tend to start by understanding the problem before deciding how to implement a solution.
+
+I break complex problems into systems, identify their assumptions and constraints, research what is already known, and design an approach before building.
+
+AI is part of my current development workflow, particularly for implementation assistance, experimentation, and testing. I review generated work, understand the architecture and security implications, and use each project to strengthen my underlying programming and engineering ability.
+
+I don't consider a system finished simply because it runs.
+
+I want to understand:
+
+**Why does it work?**
+**What assumptions does it depend on?**
+**Where could it fail?**
+**What happens when those assumptions change?**
+
+That approach is reflected in both my research and my projects.
+
+---
+
+# COMMUNITY & EXTERNAL PROGRAMS
+
+## THE KNOWLEDGE SOCIETY
+
+### TKS · Cohort 4
+
+TKS has given me an environment to learn alongside students working across different disciplines and exchange ideas with people approaching ambitious problems from very different perspectives.
+
+It has expanded my network beyond my immediate environment and introduced me to peers working across technology, research, biotech, medtech, psychology, and entrepreneurship.
+
+[Official TKS website](https://tks.world/)
+
+---
+
+## EMERGENT VENTURES
+
+### Grantee
+
+Receiving an Emergent Ventures grant has supported my work and development as an independent builder and researcher.
+
+Emergent Ventures is a grant and fellowship program administered through the Mercatus Center that supports ambitious, scalable ideas and individuals working toward meaningful social impact.
+
+[Official Emergent Ventures](https://www.mercatus.org/emergent-ventures)
+
+---
+
+## UNICEF–YUWAaH YPAT
+
+### Shortlisted · 2026–27 Selection Process
+
+Shortlisted for the next round of the **UNICEF–YuWaah Young People's Action Team (YPAT)** selection process.
+
+YuWaah is UNICEF India's youth platform focused on skills, opportunities, youth participation, and youth-led change. YPAT members contribute to YuWaah's governance and strategic priorities through participation in board meetings, task forces, and working groups.
+
+[Official UNICEF YuWaah](https://www.unicef.org/india/yuwaah)
+
+---
+
+## ATAL INNOVATION MISSION
+
+My school innovation work has included participation through the **Atal Tinkering Lab ecosystem**, including work connected to robotics, AI, and technology projects.
+
+Atal Innovation Mission is the Government of India's flagship initiative for promoting innovation and entrepreneurship, with Atal Tinkering Labs designed to give students hands-on exposure to STEM, robotics, electronics, sensors, computational thinking, creativity, and problem solving.
+
+[Official Atal Innovation Mission](https://www.aim.gov.in/)
+
+---
+
+# RECOGNITION
+
+## ACADEMIC
+
+**Proficiency Award** — 1×
+**Mathematics Proficiency Award** — 1×
+**Regional Mathematics Olympiad** — Gold 1×
+**Regional Science Olympiad** — Gold 2×
+
+## PROGRAMS & COMPETITIONS
+
+**The Knowledge Society — Cohort 4**
+**Atal Buildathon — Regional participation**
+**Young India Parliament — Regional Round**
+**State-level & Regional Project Exhibitions**
+**Atal Innovation Mission / Tinkering Lab ecosystem**
+
+---
+
+# CERTIFICATIONS
+
+**Meta** — App Development
+**IBM** — Cloud Computing
+**ISRO** — Certificate
+**CSIR** — Certificate
+**Young India Parliament** — Certificate
+**Model United Nations** — Certifications
+
+---
+
+# BEYOND TECHNOLOGY
+
+My primary technical focus is:
+
+**AI/ML · Cybersecurity · Systems · Cloud · Research**
+
+Alongside this, I continue to explore:
+
+**Psychology · Adolescence · Teen Guidance · Business · Policy · Writing · Debate**
+
+Not every interest needs to become a project. Some are simply areas I enjoy studying and thinking about.
+
+---
+
+# CURRENTLY
+
+### BUILDING
+
+**Sentinel** — continuing development across software, physiological-signal integration, testing, security, and system refinement.
+
+### RESEARCHING
+
+**Network Security & Machine Learning** — completing research on distribution shift and intrusion-detection robustness.
+
+### LEARNING
+
+Deepening my programming and engineering ability across AI/ML, cybersecurity, cloud computing, and systems.
+
+### EXPLORING
+
+Cloud security, deep learning, data science, IoT security, psychology, and adolescent mental health.
+
+### LEADING
+
+Continuing work at MindRise and contributing to teen-focused conversations, events, and community systems.
+
+### WRITING
+
+Continuing my original fantasy novel, with Chapter One completed.
+
+### CONNECTING
+
+Learning with the TKS Cohort 4 community and building relationships that extend beyond individual projects.
+
+---
+
+# ABOUT
+
+I am an independent researcher and builder interested in understanding difficult problems and turning ideas into working systems.
+
+For the past three years, I have independently explored psychology and technology, gradually moving from curiosity-driven learning toward structured research, experimentation, and building.
+
+My technical work now focuses primarily on **AI, machine learning, cybersecurity, systems, and cloud computing**. I am particularly interested in what happens when systems leave controlled environments — when models encounter unfamiliar data, when software interacts with hardware, or when technology has to operate within real human constraints.
+
+Outside technology, psychology, adolescence, teen guidance, debate, and writing have remained important parts of how I think.
+
+Some of my work is highly technical. Some is collaborative. Some is built simply because I wanted to understand something.
+
+Across all of it, I try to follow the same principle:
+
+**Ask better questions. Build carefully. Test honestly. Keep learning.**
+
+---
+
+# CONNECT
+
+**GitHub**
+https://github.com/dhansikarcs-cs
+
+**LinkedIn**
+https://www.linkedin.com/in/dhansika-r-cs
+
+**Email**
+[dhansika.r.cs@gmail.com](mailto:dhansika.r.cs@gmail.com)

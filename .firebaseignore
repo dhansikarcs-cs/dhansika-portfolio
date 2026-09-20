@@ -1,0 +1,7 @@
+firebase.json
+.firebaserc
+.firebaseignore
+.git/**
+**/node_modules/**
+profile.txt
+README.md
