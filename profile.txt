@@ -6,7 +6,7 @@ I explore how technology can be made more reliable, secure, and useful in the re
 
 My primary technical interests are **artificial intelligence, machine learning, cybersecurity, systems engineering, and cloud computing**. Alongside technology, I have spent three years independently exploring **psychology, adolescence, mental health, and human behaviour**, while also working in teen guidance, communication, debate, and community leadership.
 
-**3 years of independent research · Emergent Ventures Grantee · Founder, Sentinel · TKS Cohort 4 · UNICEF–YuWaah YPAT shortlisted**
+**3 years of independent research · Emergent Ventures Grantee · Founder, Sentinel · TKS Cohort 4 · Leaf Scholar · UNICEF–YuWaah YPAT shortlisted**
 
 **Research · Build · Test · Learn**
 
@@ -20,7 +20,7 @@ I like taking a question or problem, understanding its constraints, designing a 
 
 ### AI · Physiological Signals · Mental Healthcare · Systems
 
-[View Sentinel on GitHub](https://github.com/dhansikarcs-cs/Sentinel_V_1_)
+[View Sentinel on GitHub](https://github.com/dhansikarcs-cs/sentinel-mental-health)
 
 Sentinel is an AI-powered mental-health technology platform I am developing as a broader clinical-support system rather than simply an AI application.
 
@@ -144,9 +144,9 @@ My work at MindRise combines community operations, communication, event organiza
 
 **Administrative Lead · Former Organising Lead**
 
-I have also served as the **primary speaker for three events**:
+I have also served as the **primary speaker for four events**:
 
-**2 Teen Talks · 1 Parental Talk**
+**3 Teen Talks · 1 Parental Talk**
 
 My interest in teen guidance comes from wanting young people to have spaces where they can ask questions, exchange perspectives, and discuss challenges openly.
 
@@ -161,6 +161,16 @@ I have participated in **10+ Model United Nations conferences** and served as **
 I have also been active in school debates and participated in the **Young India Parliament Regional Round**.
 
 These experiences have developed my ability to research unfamiliar issues, understand opposing perspectives, construct arguments, communicate clearly, and work with people who approach the same problem differently.
+
+---
+
+## TECH FAIR 2026 — SPEAKER
+
+### Qaava Innovate · 2026
+
+**Only teen speaker at Tech Fair 2026 by Qaava Innovate**
+
+Spoke on **"From Idea to AI Business Product"** — the path from an early idea through to building an AI-based business product. Selected as the only teen speaker at the event.
 
 ---
 
@@ -349,6 +359,18 @@ Atal Innovation Mission is the Government of India's flagship initiative for pro
 
 ---
 
+## LEAF — DILEMMAS & DANGERS IN AI
+
+### Leaf Scholar · 2026
+
+Selected as a **Leaf Scholar** for the interdisciplinary online fellowship exploring how to steer cutting-edge AI technology toward benefits for humanity — covering AI risk, alignment, governance, and the dilemmas posed by powerful AI systems.
+
+Leaf is a US-registered 501(c)(3) nonprofit supporting exceptional teenagers to explore how to save lives, help others, and change the course of history.
+
+[Official Leaf course](https://leaf.courses/dilemmas-and-dangers-in-ai)
+
+---
+
 # RECOGNITION
 
 ## ACADEMIC
@@ -361,6 +383,7 @@ Atal Innovation Mission is the Government of India's flagship initiative for pro
 ## PROGRAMS & COMPETITIONS
 
 **The Knowledge Society — Cohort 4**
+**Leaf Scholar — Dilemmas & Dangers in AI**
 **Atal Buildathon — Regional participation**
 **Young India Parliament — Regional Round**
 **State-level & Regional Project Exhibitions**
