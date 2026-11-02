@@ -48,8 +48,6 @@ The research demonstrates how models that achieve near-perfect performance under
 
 The paper is currently being completed.
 
-[View the research repository](https://github.com/dhansikarcs-cs/ids-distribution-shift)
-
 **Independent Research · Experimental Design · Machine Learning · Network Security · Data Analysis**
 
 ---
